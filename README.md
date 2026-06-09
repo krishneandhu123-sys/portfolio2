@@ -1,5 +1,4 @@
 
 # indexx.html
 # indexx.html
-# krishh
 # resume.html
