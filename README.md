@@ -1,2 +1,107 @@
-# portfolio 
-portfolio
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Krishneandhu PK - Portfolio</title>
+</head>
+<body>
+
+    <h1>Krishneandhu PK</h1>
+    <p>2nd Year Electronics & Instrumentation Engineering Student</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>
+        Hello! I am Krishneandhu PK, a second-year Electronics and
+        Instrumentation Engineering (EIE) student at FISAT. I am passionate
+        about electronics, automation, robotics, and web development.
+        I enjoy learning new technologies and applying my knowledge to
+        develop innovative solutions for real-world challenges.
+    </p>
+
+    <hr>
+
+    <h2>Education</h2>
+    <p><b>College:</b> Federal Institute of Science and Technology (FISAT)</p>
+    <p><b>Course:</b> B.Tech in Electronics & Instrumentation Engineering</p>
+    <p><b>Year:</b> Second Year</p>
+    <p><b>Location:</b> Angamaly, Kerala</p>
+
+    <hr>
+
+    <h2>Career Objective</h2>
+    <p>
+        To enhance my technical and professional skills through continuous
+        learning and practical experience, while contributing effectively
+        to projects related to electronics, automation, and technology.
+    </p>
+
+    <hr>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Python Programming</li>
+        <li>C Programming</li>
+        <li>Arduino Programming</li>
+        <li>ESP32 Development</li>
+        <li>Electronics & Instrumentation</li>
+        <li>Problem Solving</li>
+        <li>Teamwork and Communication</li>
+    </ul>
+
+    <hr>
+
+    <h2>Projects</h2>
+    <ol>
+        <li>
+            <b>Solar Dryer</b><br>
+            Designed and developed a solar-powered dryer to provide an
+            energy-efficient and environmentally friendly drying solution.
+        </li>
+
+        <li>
+            <b>ESP32 Home Automation System</b><br>
+            Developed a smart home automation system using ESP32 to control
+            household appliances remotely and improve convenience.
+        </li>
+
+        <li>
+            <b>Rover Team Member</b><br>
+            Contributed to the design, assembly, and testing of a rover as
+            part of the college rover team, gaining experience in teamwork
+            and technical problem-solving.
+        </li>
+    </ol>
+
+    <hr>
+
+    <h2>Achievements & Activities</h2>
+    <ul>
+        <li>Active member of the college Rover Team.</li>
+        <li>Participated in technical workshops and project exhibitions.</li>
+        <li>Interested in robotics, automation, and embedded systems.</li>
+        <li>Continuously learning new programming and engineering concepts.</li>
+    </ul>
+
+    <hr>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Exploring new technologies</li>
+        <li>Working on electronics projects</li>
+        <li>Reading technical articles</li>
+        <li>Team-based activities and competitions</li>
+    </ul>
+
+    <hr>
+
+    <h2>Contact</h2>
+    <p><b>Email:</b> krishneandhu123@gmail.com</p>
+    <p><b>Phone:</b> +91 9400869093</p>
+
+    <hr>
+
+
+</body>
+</html>
